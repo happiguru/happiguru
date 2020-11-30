@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 
 ### Software Developer, Engineer.
-- 💻 Goal: Landing a developer job which can give me a platform to add value to my society while improving on my skills to become a valuable human asset!
-- 🔭 I’m currently working on the Microverse Program as a student.
+- 💻 Goal: Landing a developer job which can give me a platform to add value to my society while improving my skills and becoming a valuable human asset!
+- 🔭 I'm currently studying in the Microverse Program, working part-time as Mentor.
 - 🌱 Learning Ruby on Rails, JS and React.
 - 🔊 Very communicative and proactive and excellent problem solving skills.
 - ⚡ Fun fact: the only things I like more than talking are playing and listening to music.
