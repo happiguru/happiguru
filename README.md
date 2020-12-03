@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 I am called: Stanley Enow Lekunze
 
