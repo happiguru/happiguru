@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am called: Stanley Enow Lekunze (Happi Guruman)
+
 <!--
 **happiguru/happiguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
+I am called: Stanley Enow Lekunze
 
 ### Software Developer, Engineer.
 - 💻 Goal: Landing a developer job which can give me a platform to add value to my society while improving my skills and becoming a valuable human asset!
