@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 
 ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=happiguru&show_icons=true&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiguru&layout=compact&theme=vue" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiguru&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="happiguru" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happiguru&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="happiguru" />
+</p>
 
 ### Languages and Tools:
 
