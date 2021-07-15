@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 🔊 Very communicative and proactive and excellent problem solving skills.
 - ⚡ Fun fact: the only things I like more than talking are playing and listening to music.
 
-![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=happiguru&show_icons=true&hide_border=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiguru&layout=compact&theme=vue" />
+<!-- ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=happiguru&show_icons=true&hide_border=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiguru&layout=compact&theme=vue" /> -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiguru&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="happiguru" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happiguru&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="happiguru" />
 </p>
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <br/>
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" color="fff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://lekunzestanleyenow.learningo.club)
+[<img align="left" alt="codeSTACKr.com" width="22px" color="fff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://lekunzestanley.me)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lekunze-nley/)
 <br/>
